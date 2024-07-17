@@ -1,3 +1,6 @@
+# Crypto_app
+Real-Time crypto data
+
 This is a [Next.js](https://nextjs.org/) MY_CRYPTO_APP 
 ## Getting Started
 
